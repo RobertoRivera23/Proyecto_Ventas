@@ -4,11 +4,12 @@ p{
     background-color: rgb(100, 216, 216);
 }
 body{
-    <background-color: id="EEE1F2">
+    <background-color: id="rgb(100, 213, 21)">
     color: #111
     padding-top: 11em;
 
 }
 .navar{
     margin: 5px 10px;
+    background-color: rgb(120, 213, 110);
 }
